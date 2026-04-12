@@ -1,0 +1,1 @@
+A threat model for the SafeBank web application to identify security risks for customers checking balances and paying bills.
